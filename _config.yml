@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: 
+baseurl: "zxc-97.github.io"
+url: ""
 date_format: "ordinal"
 title: Xuechen's blog
 subtitle: "Xuechen's blog"
